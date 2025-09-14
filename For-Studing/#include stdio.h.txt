@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+//#define float sunny_speed = 300000.;
+/************
+이거 완전 잘못된 코드네 ㅋㅋㅋㅋㅋㅋㅋ
+define -> 단순히 특정 텍스트를 다른 텍스트로 치환하는 역할, 자료형 정의 안됨. =도 안씀. 전처리기 지시자는 세미콜론도 안 씀
+올바른 사용법. 이름과 값만 명시하기. 예) #define SUNNY_SPEED 30000.0
+잘못된 예) #definr float sunny_speed = 30000.;ㅋㅋㅋㅋㅋㅋㅋㅋ 할당 연산자, 자료형, 세미콜론 포함.
+대안 -> const 사용. 타입 지정 가능. 등호, 세미콜론도 사용. 일반 변수 지정처럼 사용 가능.
+*******/
+
+//int void main() 
+int main(void)
+{
+	float sunny_speed = 300000.0; 
+	double SunEarthInstance = 14960*10000;
+	double time;
+
+	time = SunEarthInstance/sunny_speed;
+
+	printf("빛의 속도는 %12.6fkm/s",sunny_speed);
+	printf("태양과 지구와의 거리 %.6lf", SunEarthInstance);
+	printf("도달시간은 %.6lf초", time);
+	
+	return 0;
+}
