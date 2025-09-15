@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAC69C-94F1-4C33-B2EE-C5958F01B9D4}|Project1.vcxproj|C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\E.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32DAC69C-94F1-4C33-B2EE-C5958F01B9D4}|Project1.vcxproj|solutionrelative:E.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAC69C-94F1-4C33-B2EE-C5958F01B9D4}|Project1.vcxproj|C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\plusThree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32DAC69C-94F1-4C33-B2EE-C5958F01B9D4}|Project1.vcxproj|solutionrelative:plusThree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAC69C-94F1-4C33-B2EE-C5958F01B9D4}|Project1.vcxproj|C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\sunEarthTime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32DAC69C-94F1-4C33-B2EE-C5958F01B9D4}|Project1.vcxproj|solutionrelative:sunEarthTime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAC69C-94F1-4C33-B2EE-C5958F01B9D4}|Project1.vcxproj|C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\printff.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32DAC69C-94F1-4C33-B2EE-C5958F01B9D4}|Project1.vcxproj|solutionrelative:printff.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAC69C-94F1-4C33-B2EE-C5958F01B9D4}|Project1.vcxproj|C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\change.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32DAC69C-94F1-4C33-B2EE-C5958F01B9D4}|Project1.vcxproj|solutionrelative:change.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAC69C-94F1-4C33-B2EE-C5958F01B9D4}|Project1.vcxproj|C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\conversion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32DAC69C-94F1-4C33-B2EE-C5958F01B9D4}|Project1.vcxproj|solutionrelative:conversion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E.c",
+              "DocumentMoniker": "C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\E.c",
+              "RelativeDocumentMoniker": "E.c",
+              "ToolTip": "C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\E.c",
+              "RelativeToolTip": "E.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-15T02:56:14.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "plusThree.c",
+              "DocumentMoniker": "C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\plusThree.c",
+              "RelativeDocumentMoniker": "plusThree.c",
+              "ToolTip": "C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\plusThree.c",
+              "RelativeToolTip": "plusThree.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-15T02:49:58.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "printff.c",
+              "DocumentMoniker": "C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\printff.c",
+              "RelativeDocumentMoniker": "printff.c",
+              "ToolTip": "C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\printff.c",
+              "RelativeToolTip": "printff.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-15T02:45:30.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "conversion.c",
+              "DocumentMoniker": "C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\conversion.c",
+              "RelativeDocumentMoniker": "conversion.c",
+              "ToolTip": "C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\conversion.c",
+              "RelativeToolTip": "conversion.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-15T02:31:34.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "change.c",
+              "DocumentMoniker": "C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\change.c",
+              "RelativeDocumentMoniker": "change.c",
+              "ToolTip": "C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\change.c",
+              "RelativeToolTip": "change.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-15T02:16:12.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sunEarthTime.c",
+              "DocumentMoniker": "C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\sunEarthTime.c",
+              "RelativeDocumentMoniker": "sunEarthTime.c",
+              "ToolTip": "C:\\Users\\tjsl0\\Desktop\\2025-2-univ\\Programming-Introduvtion\\2025-2-Programming-Introduction\\For-Pratice\\week2\\Project1\\sunEarthTime.c",
+              "RelativeToolTip": "sunEarthTime.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-15T01:21:07.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
